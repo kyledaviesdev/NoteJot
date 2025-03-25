@@ -4,7 +4,7 @@ This is a project that was wrote in Kotlin. I wrote a note taking application wh
 
 My purpose for writing this was to show my skills in Kotlin and have a nice note taking app that I can use in the future.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/zMW6XO5049w))
+[Software Demo Video]([https://youtu.be/zMW6XO5049w](https://youtu.be/zMW6XO5049w))
 
 # Development Environment
 
